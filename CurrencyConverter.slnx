@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Converter.Application/Converter.Application.csproj" />
+  <Project Path="Converter.Domain/Converter.Domain.csproj" />
+  <Project Path="Converter.Persistence/Converter.Persistence.csproj" />
+  <Project Path="Converter.UI/Converter.UI.csproj" Id="bbb26331-4d77-4426-8a05-0142b757606e" />
+</Solution>
